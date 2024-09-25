@@ -1,0 +1,152 @@
+         
+     @import url('https://fonts.googleapis.com/css2?family=Fascinate&display=swap');    
+        
+        
+        header{
+            color: aqua;
+            align-items: center;
+            margin: auto;
+            font-size: 120px;
+            border: 10px solid grey;
+            border-radius: 5px;
+            padding: 12px;
+           font-family: 'Amatic SC', cursive ;
+           font-weight: 900;
+
+        }
+
+        h1{
+            text-align: center;
+            color: #8064e9;
+        }
+
+        h2 {
+               text-align: center;
+            color: #8064E9;
+            font-size: 20px;
+            line-height: 48px;
+            margin: 0;
+            font-family: Cerebri Sans, Helvetica, Arial, sans-serif;
+        }
+
+        h3{
+            text-align: center;
+        }
+        h4{
+            color: #8064e9;
+            text-align: center;
+            font-size: smaller;
+        
+            
+        }
+
+        p{
+            text-align: center;
+            display: block;
+            margin: auto;
+
+        }
+
+        div {
+            text-align: center;
+            display: block;
+            margin: auto;
+        }
+video{
+    text-align: center;
+            display: block;
+            margin: auto;
+}
+       
+           button{   
+            border-radius: 25px;
+            border: 1px solid #8064e9;
+            background: #8064e9;
+            color: #fff;
+            font-size: 16px;
+            display: block;
+            margin: 60px auto;
+            line-height: 22px;
+            padding: 16px 24px;
+            text-decoration: none;
+            transition: all 200ms ease;
+            box-shadow: rgba(37, 39, 89, 0.08) 0px 8px 8px 0;
+
+           }
+
+ img{
+ align-items: center;
+ display: block;
+ margin: auto;
+
+ }
+
+ footer{
+     text-align: center;
+     font-family: PT Mono, monospace;
+     padding: 209px;
+ }
+  
+ a:info{
+
+text-align: center;
+text-decoration: underline;
+
+ }
+iframe {
+text-align: center;
+display: block;
+margin: auto;
+}
+
+li{
+    font-family: 'PT Mono', monospace;
+
+}
+
+.join-Now-button {
+         padding: 16px 24px;
+ border-radius: 25px;
+ margin: 2px auto;
+ 
+
+}
+
+.join-Now-button:hover{
+    cursor: pointer;
+background :#5F40A7 ;
+ transition: all 200ms ease;
+  box-shadow: rgb(37 39 89 / 8%) 0px 8px 8px 0;
+
+}
+
+.instagram-icon{
+    color: black;
+    font-size: 50px;
+    transition: all 200ms ease-in-out;
+}
+.instagram-icon:hover{
+    color: gray;
+    font-size: 50px;
+}
+
+.twitter-icon{
+     color: black;
+    font-size: 50px;
+    transition: all 200ms ease-in-out;
+}
+.twitter-icon:hover{
+    color: gray;
+    font-size: 50px;
+}
+
+.linkedin-icon{
+    color: black;
+    font-size: 50px;
+    transition: all 200ms ease-in-out;
+}
+
+.linkedin-icon:hover{
+    color: gray;
+    font-size: 50px;
+}
